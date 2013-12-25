@@ -4,6 +4,7 @@ The structure of task is fully programmed but the times of presented
 letters and equations were controled in this practice. 
 
 In details:
+
 1. Practice 1 contains 3 sets, representing 2,2 and 3 letters respectively.  
 2. Practice 2 contains one set which shows 3 math equations.
 3. Practice 3 contains 2 sets, each randomly represents either 3 or 7 math
