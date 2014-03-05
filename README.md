@@ -1,7 +1,6 @@
 This matlab-based script is a practice of the Operation Span Task (SPAN).
 
-The structure of task is fully programmed but the times of presented
-letters and equations were controled in this practice. 
+The task is fully programmed but the number of letter and equation sets were cut short in this practice. 
 
 In details:
 
@@ -16,8 +15,9 @@ In details:
  To perform and quit the script:
 
 type 'ospan(Subject_ID)' in Matlab command window, ex. igt(1), igt(2)....or igt(n).
-Once task starts, user is not able to quit the progarm, program can be quit by pressing 'ESC' in the end of task. 
+
+Now the script is programmed to quit on all instruction page by pressing ECS, and type SPACE to go next instuction page. 
 
 
-Wrote by bo zhang, Updated on 10/12/2013
+Wrote by bo zhang, Updated on 6/3/2014
 bozhang.neuro@gmail.com
